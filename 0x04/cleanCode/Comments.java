@@ -13,7 +13,7 @@ public class Comments {
     }
 
 /**
- * <p> This method publishes results based on date.
+ * <p> this method publishes results based on date.
  * </p>
  * @param date Date from when results should be published.
  * @return List of Result entities.
