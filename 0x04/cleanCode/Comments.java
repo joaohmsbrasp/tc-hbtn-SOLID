@@ -12,13 +12,13 @@ public class Comments {
         return;
     }
 
-    /**
-     * <p> This method publishes results based on date.
-     * </p>
-     * @param date Date from when results should be published.
-     * @return List of Result entities.
-     * @since 16.0
-     */
+/**
+ * <p> This method publishes results based on date.
+ * </p>
+ * @param date Date from when results should be published.
+ * @return List of Result entities.
+ * @since 16.0
+ */
     public List<Result> publishResults(Date date) {
         // some business logic here
     }
